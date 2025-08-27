@@ -1,13 +1,13 @@
-<h1 align="center">Yo 🤛🏻 I'm David Nguyen</h1>
+<h1 align="center">Yo 👊🏻 I'm David Nguyen</h1>
 <h3 align="center">I'm curently a student in Viet Nam 🇻🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tdung1807&label=Profile%20views&color=e50b0b&style=plastic" alt="tdung1807" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/TDung1807](https://github.com/TDung1807)
+- 👨‍💻 All of my projects are available at : [https://github.com/TDung1807](https://github.com/TDung1807)
 
 - 📫 How to reach me **tiendunghuong4@gmail.com**
 
-- ⚡ Fun fact **I'm a student with a passion for math and coding**
+- ⚡ Fun fact : **I'm a student with a passion for math and coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,4 +21,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tdung1807&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=2000&locale=en&layout=compact" alt="tdung1807" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tdung1807&theme=dark" alt="tdung1807" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tdung1807&theme=dark" alt="tdung1807's streak stats" /></p>
