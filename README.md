@@ -21,4 +21,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tdung1807&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=2000&locale=en&layout=compact" alt="tdung1807" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tdung1807&theme=dark" alt="tdung1807's streak stats" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TDung1807&theme=tokyonight&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
