@@ -1,5 +1,5 @@
 <h1 align="center">Yo 👊🏻 I'm David Nguyen</h1>
-<h3 align="center">I'm curently a student in Viet Nam 🇻🇳</h3>
+<h3 align="center">I'm currently a student in Viet Nam 🇻🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tdung1807&label=Profile%20views&color=e50b0b&style=plastic" alt="tdung1807" /> </p>
 
