@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tdung1807&label=Profile%20views&color=e50b0b&style=plastic" alt="tdung1807" /> </p>
 
-- 👨‍💻 All of my projects are available at : [https://github.com/TDung1807](https://github.com/TDung1807)
 
-- 📫 How to reach me **tiendunghuong4@gmail.com**
+- 📫 How to reach me **nguyentiendung.space**
 
-- ⚡ Fun fact : **I'm a student with a passion for math and coding**
+- ⚡ Fun fact : **I'm 2008**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
