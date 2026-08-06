@@ -16,7 +16,7 @@
 <a href="https://instagram.com/install.david.dmg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="install.david.dmg" height="30" width="40" /></a>
 </p>
 
-username=tdung1807&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=2000&locale=en&layout=compact" alt="tdung1807" /></p>
+
 
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TDung1807&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
